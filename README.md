@@ -1,4 +1,5 @@
 This is a spreadsheet containing a dataset of federal criminal cases from federal district courts around the country that somehow involve AI-generated or AI-morphed child sexual abuse material (CSAM) or obscene sexual depictions of children. It was collected in support of legal research. The spreadsheet links to the CourtListener dockets for each case so that anyone viewing the dataset can locate the court filings in a particular case. The original dataset was updated on Aug. 2, 2026, and added to GitHub the same day. 
+
 The most recent version of the dataset was updated on Nov. 6, 2026. Latest updates:
 * Add Podrybau to sample
 * Add Erselius to sample
